@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> VS JAHNAVI - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            text-align: center;
+            padding: 10px;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="https://i.ibb.co/6HDDSBj/janamma-html.jpg" alt="VS JAHNAVI">
+    <h1>VADUGURU JAHNAVI SANJEEVAN</h1>
+    <p>Computer Science Student | AI & ML Enthusiast</p>
+    <p>Email: vadugurujahnavi@gmail.com | LinkedIn: <a href="#">https:// www.linkedin.com/in/jahnavisanjeevan</a> | GitHub: <a href="#">https://github.com/jahnavisanjeevan</a></p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>I am a passionate computer science student with a focus on Artificial Intelligence and Machine Learning. I enjoy solving complex problems and applying my skills to real-world challenges.</p>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p><strong>Mohan Babu University-TIRUPATHI</strong><br>
+                                  Bachelor of Science in Computer Science[2022-2026] </p>
+  <p><strong>Narayana junior college-HINDUPUR</strong>
+                                  MPC[2020-2022]<br></P>
+<p><strong>Eswar English Medium School-HINDUPUR</strong>
+                              [2020-passedout]
+
+
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>Programming Languages: Python, Java, C++, R</li>
+        <li>Frameworks & Tools: TensorFlow, Keras, PyTorch, Scikit-learn</li>
+        <li>Web Development: HTML, CSS, JavaScript</li>
+        <li>Database Management: SQL</li>
+    </ul>
+</section>
+<section>
+    <h2>Internships & Work Experience</h2>
+    <p><strong>Artifical intelligence</strong>  — [june 2024] to [july 2024]</p>
+    <p>Responsibilities and achievements related to AI/ML projects.</p>
+</section>
+
+<section>
+    <h2>Certifications</h2>
+    <ul>
+        <li>CERTIFIED AS ARTIFICAL INTELLIGENCE INTERN</li>
+        <a href="https://ibb.co/7yZVx8L"><img src="https://i.ibb.co/7yZVx8L/Vaduguru-Jahnavi-Artificial-Intelligence-Internship-Internship.jpg" alt="Vaduguru-Jahnavi-Artificial-Intelligence-Internship-Internship" border="0"></a>
+    </ul>
+</section>
+
+<footer>
+    <p>References available upon request.</p>
+</footer>
+
+</body>
+</html>
